@@ -341,3 +341,7 @@ address a {
     background-color: #03000B;
     text-align: center;
 }
+
+.map {
+    overflow: hidden;
+}
