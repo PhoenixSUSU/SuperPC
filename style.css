@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 980px;
     padding-top: 64px;
 
-    background: #050110 url("img/intro.jpg") center no-repeat;
+    background: #050110 url("intro.jpg") center no-repeat;
     background-size: cover;
 }
 
